@@ -1,4 +1,4 @@
-###Section 5A of RAL-18-0278
+### Section 5A of RAL-18-0278
 
 To re-run the experiments described in Section 5A, first go to the src and type *make* to compile the predictive framework.
 Then, go to the eval_scripts and type *make* to compile the t-test utility.
