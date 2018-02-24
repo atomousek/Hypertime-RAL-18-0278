@@ -14,4 +14,4 @@ if it runs well, type
 and then check the *summary.png* file, which should look similarly to Fig 2 in the paper.
 
 You will need to install openCV2.7, libalglib, gnuplot and transfig to run the software.
-The temporal models are stored in the *src/models* folder.
+The temporal models are stored in the *src/models* folder and by implementing the methods of CTemporal.cpp, you can make and test your own method.
